@@ -1,4 +1,20 @@
-## Olá, me chamo Pedro Van-Lume! 👨🏻‍💻 
+<div>
+  <h1 align="center">Olá, me chamo Pedro Van-Lume! 👨🏻‍💻 </h1>
+<br>
+
+  <p align="center">Apaixonado por dados e tecnologia, com sólida formação em desenvolvimento, sempre buscado implementar soluções inovadoras e criativas. Atividades práticas como coleta, preparação e análise automatizada de dados, visualizações profissionais, desenvolvimento de aplicações web e Dashboards, modelagem de dados, Linux, banco de dados e mecanismos de busca fazem parte do meu dia a dia. 🎲👨‍💻</h2>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pedrovan-lume&label=Profile%20views&color=0e75b6&style=flat" alt="Pedrovan-lume" /> </p>
+</div>
+
+<div align="center">
+  
+  <a href="https://github.com/Pedrovan-lume">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pedrovan-lume&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrovan-lume&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="275em" src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrovan-lume&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="245em" src="https://github-readme-activity-graph.cyclic.app/graph?username=Pedrovan-lume&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
 ### Habilidades:
 
